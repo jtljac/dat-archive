@@ -2,6 +2,8 @@
 // Created by jacob on 27/06/23.
 //
 
+#include <iostream>
+
 #include <dat-archive.h>
 
 int main() {

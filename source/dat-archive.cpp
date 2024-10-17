@@ -1,7 +1,3 @@
-//
-// Created by jacob on 27/06/23.
-//
-
 #include "../include/dat-archive.h"
 
 #include <algorithm>
